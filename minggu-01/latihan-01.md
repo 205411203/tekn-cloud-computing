@@ -11,27 +11,7 @@ $ git --version
 git version 2.19.2
 ```
 
-Jika muncul versi (tergantung versi yang terinstall), maka kita bisa mulai menggunakan Git.
-
-## Linux
-
-Git untuk Linux biasanya sudah ada pada masing-masing distro dan bisa diinstall dengan *package manager* dari distro yang bersangkutan. Sebagai contoh:
-
-1. OpenSuSE: zypper in git
-2. Arch Linux: pacman -S git
-3. Debian/Ubuntu: apt-get install git
-
-Silahkan melihat pada manual dari *package manager* di distro yang bersangkutan. 
-
-## Mac OS X
-
-Git untuk Mac OS X juga sudah tersedia dan bisa diinstall menggunakan [Homebrew](http://brew.sh) (*package manager* di Mac OS X):
-
-```
-brew install git
-```
-
-## Windows
+## Instalasi pada Windows
 
 Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didukung oleh Windws. Editor yang bisa dipilih banyak, tetapi disarankan menggunakan [Notepad++](https://notepad-plus-plus.org/) atau [Visual Studion Code](https://code.visualstudio.com/) atau [Vim](https://www.vim.org/). Keberadaan editor teks ini akan menentukan keberhasilan instalasi (lihat langkah 5).
 
